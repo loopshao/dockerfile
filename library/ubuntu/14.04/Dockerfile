@@ -1,3 +1,3 @@
-FROM ubuntu:14.04
+FROM ubuntu
 MAINTAINER from "ssh_server_ubuntu"
 RUN echo "123"
